@@ -87,7 +87,7 @@ The Catalog Page is a centralized resource that provides an organized list of al
 ![Learnmore Page](screenshots/learnmore1.png)
 ![Learnmore Page](screenshots/learnmore2.png)
 ![Learnmore Page](screenshots/learnmore3.png)
-![Learnmore Page](screenshot/learnmore4.png)
+![Learnmore Page](screenshots/learnmore4.png)
 
 ### Catalog page screenshot
 
