@@ -61,7 +61,7 @@ The Catalog Page is a centralized resource that provides an organized list of al
 
 ![About Page](screenshots/about1.png)
 ![About Page](screenshots/about2.png)
-![About Page](about3.png)
+![About Page](screenshots/about3.png)
 
 ![Event Page](screenshots/event1.png)
 ![Event Page](screenshots/event2.png)
