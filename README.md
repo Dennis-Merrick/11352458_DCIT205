@@ -1,3 +1,6 @@
+# NAME :DENNIS YEBOAH 
+# STUDENT ID: 11352458 
+
 # Computer Science Department. 
 
 Welcome to the Computer Science Department website! This platform serves as a centralized hub for information and resources related to the department. The website includes various pages such as Home, Events, Contact, Courses, Resources, Learn More, Staff Profiles, and About. Whether you're a student, faculty member, or visitor, you'll find valuable information to stay connected and informed.
@@ -36,9 +39,8 @@ The Blog page contains the department's blog posts.
 The Blog Page is a platform for sharing articles, insights, and updates related to computer science and technology. It serves as a dynamic space where faculty, students, and guest contributors can publish posts on various topics. Each blog post includes a title, publication date, author, and the main content.
 
 
-### learnMore page
-The learnMore page contains the department's online resources.
-
+### Catalog  page
+The Catalog Page is a centralized resource that provides an organized list of all the courses offered by the Computer Science Department. This page serves as a comprehensive catalog or directory, offering detailed information about each course, including prerequisites, credits, and course descriptions.
 
 
 ### SCREENSHOTS OF EACH PAGE
