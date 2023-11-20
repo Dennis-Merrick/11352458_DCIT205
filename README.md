@@ -49,19 +49,26 @@ The Catalog Page is a centralized resource that provides an organized list of al
 ![Home page](screenshots/home2.png)
 ![Home page](screenshots/home3.png)
 
+### Courses page screenshot
+
 ![Course page](screenshots/courses.png)
 ![Courses page](screenshots/courses1.png)
 ![Course page](screenshots/courses3.png)
 ![Courses page](screenshots/courses2.png)
 
+### Contact page screenshot
+
 ![Contact Page](screenshots/contact1.png)
 ![Contact Page](screenshots/contact2.png)
 ![Contact Page](screenshots/contact3.png)
 
+### About page screenshot
 
 ![About Page](screenshots/about1.png)
 ![About Page](screenshots/about2.png)
 ![About Page](screenshots/about3.png)
+
+### Event page screenshot
 
 ![Event Page](screenshots/event1.png)
 ![Event Page](screenshots/event2.png)
@@ -69,21 +76,28 @@ The Catalog Page is a centralized resource that provides an organized list of al
 ![Event Page](screenshots/event4.png)
 ![Event Page](screenshots/event5.png)
 
+### Resources page screenshot
+
 ![Resource Page](screenshots/resource1.png)
 ![Resource Page](screenshots/resource2.png)
 ![Resource Page](screenshots/resource3.png)
 
+### Learn-More page screenshot
 
 ![Learnmore Page](screenshots/learnmore1.png)
 ![Learnmore Page](screenshots/learnmore2.png)
 ![Learnmore Page](screenshots/learnmore3.png)
 ![Learnmore Page](screenshot/learnmore4.png)
 
+### Catalog page screenshot
+
 ![Catalog page](screenshots/catalog1.png)
 ![Catalog page](screenshots/catalog.png)
 
-
+### StaffProfile page screenshot
 ![Staffprofile page](screenshots/staffprofile.png)
+
+### Blog page screenshot
 
 ![Blog page](screenshots/blog1.png)
 
