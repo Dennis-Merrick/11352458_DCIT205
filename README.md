@@ -7,7 +7,7 @@ Welcome to the Computer Science Department website! This platform serves as a ce
 
 ### Home page
 
-The home page is the main page of the website. It contains the department's mission statement, departmental events, and departmental news.
+The home page is the main page of the website. It contains the department's mission statement, departmental events, and departmental news. It contains welcome message for the computer science department.
 
 ### About page
 The About page contains information about the department, including the mission statement, history, and departmental goals. The About Page provides general information about the Computer Science Department. It may include the department's mission, vision, history, and any relevant accreditation. This page serves as a reference point for anyone seeking a broad understanding of the department's goals and values.
