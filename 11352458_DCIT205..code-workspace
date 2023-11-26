@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../projectf/screenshots"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "11352458_DCIT205",
+		"liveServer.settings.port": 5503
+	}
+}
