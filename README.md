@@ -43,6 +43,60 @@ The Blog Page is a platform for sharing articles, insights, and updates related 
 The Catalog Page is a centralized resource that provides an organized list of all the courses offered by the Computer Science Department. This page serves as a comprehensive catalog or directory, offering detailed information about each course, including prerequisites, credits, and course descriptions.
 
 
+
+
+
+# Clone and Setup Instructions
+### 1. Fork the Repository:
+i. Visit https://github.com/Daquiver1/DCIT_205_IA.
+ii. Click the "Fork" button in the upper right-hand corner of the page.
+iii.This creates a copy of the repository under your GitHub account.
+
+### 2. Clone Your Fork:
+i. Open your forked repository on GitHub.
+ii. Click on the "Code" button, and copy the HTTPS or SSH URL.
+
+### 3. Clone Repository:
+i. Open your terminal on your local machine.
+ii. Change to the directory where you want to clone the repository.
+iii. Type git clone, and paste the URL that you copied in Step 2. press Enter
+
+
+
+### 4. Navigate to the Project Directory:
+i. Change to the directory where you cloned the repository.
+ii. Type cd DCIT_205_IA.
+iii. iv. Press Enter.
+
+### 5. Add Upstream Remote:
+i. Type git remote -v.
+ii. This will list all the remotes for your repository.
+
+This step is optional but recommended. It allows you to sync your fork with the original repository.
+
+
+### 5. Install Dependencies:
+i. Change to the directory where you cloned the repository.
+ii. Type npm install.
+
+
+### 6. Start the Development Server:
+i. type npm start and press enter.
+
+### 7. Syncing with Upstream (Optional):
+If you added the upstream remote, you can sync your fork with the original repository.
+
+i. git fetch upstream
+ii. git checkout main
+iii. git merge upstream/main
+
+
+Now, you have successfully cloned and set up the project on your local machine. You can start making changes, adding features, or fixing issues. If you plan to contribute back to the original repository, you can create a pull request after making your changes.
+
+
+
+
+
 ### SCREENSHOTS OF EACH PAGE
 
 ![Home page](screenshots/home1.png)
